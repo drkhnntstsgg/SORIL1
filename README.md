@@ -39,4 +39,10 @@ flush privileges;
 create user 'admin_user'@'localhost' identified by 'Report@2026';
 grant all privileges on gym_db.* to 
 
-### 6-р хэсэг: Backup & Restore
+
+Оюутны мэдээлэл
+- А.Дарханцэцэг
+- B232270098
+
+GitHub Repository
+Repository link: https://github.com/drkhnntstsgg/SORIL1.git
